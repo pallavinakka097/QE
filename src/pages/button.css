@@ -1,0 +1,21 @@
+.i{
+  margin:50px 60px 0px 1100px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  box-shadow: 5px 5px 5px 5px rgb(241, 231, 219);
+}
+.q{
+  width:100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.d{
+  margin-left:80px;
+  font-size: 25px;
+}
+.g{
+  margin-left:70px;
+  padding: 15px;
+  background-color: darkgreen;
+  color: white;
+}

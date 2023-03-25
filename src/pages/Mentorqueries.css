@@ -1,0 +1,19 @@
+.card {
+    width:500px;
+    height: 500px;
+    margin: 30px 500px 50px 500px;
+    background-image: url("https://img.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58931.jpg");
+    text-align: center;
+    text-decoration: wavy;
+    background-size: cover;
+    padding: 10px 0px 200px 0px;
+   text-decoration: wavy;
+   border-style: double;
+  
+  }
+  .p1{
+    font-size: 20px;
+  }
+  .img3{
+    height: 220px;
+  }

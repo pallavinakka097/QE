@@ -1,0 +1,7 @@
+.image-slideshow img {
+    transition: opacity 0.5s ease-in-out;
+  }
+  img{
+    height: 500;
+    width:500;
+  }
